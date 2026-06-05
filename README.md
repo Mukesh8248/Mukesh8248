@@ -28,7 +28,7 @@
 class Mukesh:
     name       = "Mukesh P"
     location   = "Vellore / Chennai, Tamil Nadu, India"
-    degree     = "B.IT – Madras Institute of Technology, Anna University"
+    degree     = "B.Tech IT – Madras Institute of Technology, Anna University"
     
     stack      = [
         "React JS", "JavaScript", "HTML", "CSS",
