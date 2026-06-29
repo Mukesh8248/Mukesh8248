@@ -173,7 +173,7 @@ class Mukesh:
 
 | Degree | Institution | Year | Score |
 |:---|:---|:---:|:---:|
-| 🎓 B.Tech IT (Lateral Entry) | Madras Institute of Technology, Anna University, Chennai | 2022 – 2025 | CGPA: 6.5 |
+| 🎓 B.Tech IT (Lateral Entry) | Madras Institute of Technology, Anna University, Chennai | 2022 – 2025 | CGPA: 6.44 |
 | 📘 Diploma – DEEE | Guru Raagavindra Polytechnic College, Vellore | 2019 – 2022 | 85% |
 
 </div>
